@@ -1,2 +1,6 @@
 #!/bin/bash
-echo "A good school"
+<<<<<<< HEAD
+echo "The school is good"
+=======
+echo "The school is good"
+>>>>>>> update_script

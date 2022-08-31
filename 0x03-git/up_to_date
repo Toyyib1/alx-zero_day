@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 git add .
 git commit -m "How to be up to date in git"
+=======
+cd /alx-zero_day/0x03
+ls
+git status
+git add up_to_date
+git commit -m "How to be up to date in git"
+git pull origin master
+>>>>>>> 53788ae7dec561498c27d86e49b9cb06b913b0d6
 git push origin master
